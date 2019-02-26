@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "\"Ubuntu Mono\""
+    "editor.fontFamily": "\"Ubuntu Mono\"",
+    "editor.smoothScrolling": true
 }
