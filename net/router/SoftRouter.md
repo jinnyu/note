@@ -30,8 +30,8 @@
 ### 折腾历程
 
 初步想法 :  
-物理机 安装 Windows Server 2019
-在Server中利用`Hyper-v`虚拟出`LEDE`
+物理机 安装 `Windows Server 2019`
+在`Server`中利用`Hyper-v`虚拟出`LEDE`
 但是暂时没有尝试出对的安装...  
 当前难点是  
 > 记录日期 : 2019-02-26
