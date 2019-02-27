@@ -8,7 +8,7 @@
 
 | 部件 | 品牌 | 型号 | 购买价格 | 产品链接 |购买链接 |
 | :------: | :------: | :------: | :------: | :------: | :------: |
-| CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.jd.com/1166116.html) |
+| CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | [链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html) | [链接](https://item.jd.com/1166116.html) |
 | 主板 | Asrock | Fatal1ty B85 Killer | 539 | [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp) | [链接](https://item.jd.com/1023241.html) |
 | 内存 | G.Skill | DDR3 1333 4G * 2 | 0<br>(朋友送的) | [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-) |  |
 | SSD | Kodak | 柯达X100 128G | 131 | [链接](http://kodakflash.com.cn/product/c/x--0007) | [链接](https://item.jd.com/100001967519.html) |
