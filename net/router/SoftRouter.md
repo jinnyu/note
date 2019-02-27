@@ -8,14 +8,14 @@
 
 | 部件 | 品牌 | 型号 | 购买价格 | 产品链接 |购买链接 |
 | :------: | :------: | :------: | :------: | :------: | :------: |
-| CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html | https://item.jd.com/1166116.html |
-| 主板 | Asrock | Fatal1ty B85 Killer | 539 | http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp | https://item.jd.com/1023241.html |
-| 内存 | G.Skill | DDR3 1333 4G * 2 | 0<br>(朋友送的) | http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl- |  |
-| SSD | Kodak | 柯达X100 128G | 131 | http://kodakflash.com.cn/product/c/x--0007 | https://item.jd.com/100001967519.html |
-| 板载网卡 | Killer | E2200 | 0 | https://www.killernetworking.com <br>(没找到E2200的介绍, 附官网链接) |  |
-| 外置网卡 | Intel | I350T4V2 | 233.24 | https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html | https://item.taobao.com/item.htm?id=556165663722 |
-| 电源 | Antec | VP300 (额定300W) | 144 | http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75 | https://detail.tmall.com/item.htm?id=567496242245 |
-| 机箱 | DIY | 开放式机架 | 97.02 | https://item.taobao.com/item.htm?id=585430613332 | https://item.taobao.com/item.htm?id=585430613332 |
+| CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.jd.com/1166116.html) |
+| 主板 | Asrock | Fatal1ty B85 Killer | 539 | [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp) | [链接](https://item.jd.com/1023241.html) |
+| 内存 | G.Skill | DDR3 1333 4G * 2 | 0<br>(朋友送的) | [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-) |  |
+| SSD | Kodak | 柯达X100 128G | 131 | [链接](http://kodakflash.com.cn/product/c/x--0007) | [链接](https://item.jd.com/100001967519.html) |
+| 板载网卡 | Killer | E2200 |   | [链接](https://www.killernetworking.com) <br>(没找到E2200的介绍, 附官网链接) |  |
+| 外置网卡 | Intel | I350T4V2 | 233.24 | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.taobao.com/item.htm?id=556165663722) |
+| 电源 | Antec | VP300 (额定300W) | 144 | [链接](http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75) | [链接](https://detail.tmall.com/item.htm?id=567496242245) |
+| 机箱 | DIY | 开放式机架 | 97.02 | [链接](https://item.taobao.com/item.htm?id=585430613332) | [链接](https://item.taobao.com/item.htm?id=585430613332) |
 
 ### 系统选择
 
@@ -63,7 +63,7 @@
     3. 创建`LEDE`虚拟机
        * 虚拟机代数选择第二代 (`UEFI`固件)  
        * 网络连接暂时不选择  
-       * 磁盘选择转换为`Hyper-v`之后的镜像地址 转换工具`StarWind V2V Image Converter`[StarWind V2V Image Converter](https://www.starwindsoftware.com/starwind-v2v-converter#download)  
+       * 磁盘选择转换为`Hyper-v`之后的镜像地址 转换工具 [StarWind V2V Image Converter](https://www.starwindsoftware.com/starwind-v2v-converter#download)  
        * 扩展磁盘空间  
     4. 修改虚拟机设置
        * 添加网卡 注意 : 这里要先添加`LAN`口网卡, 最后再添加`WAN`口网卡, 不知道什么原因, 有待研究.  
