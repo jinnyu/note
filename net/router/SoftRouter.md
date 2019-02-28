@@ -11,7 +11,7 @@
 | CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | [链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html) | [链接](https://item.jd.com/1166116.html) |
 | 主板 | Asrock | Fatal1ty B85 Killer | 539 | [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp) | [链接](https://item.jd.com/1023241.html) |
 | 内存 | G.Skill | DDR3 1333 4G * 2 | 0<br>(朋友送的) | [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-) |  |
-| 内存 | Samsung | DDR3 1600 4G * 2 (拆机) | 165 | [链接](https://www.samsung.com/semiconductor/cn/dram/ddr3/K4B4G0846E-BCK0) | 闲鱼 |
+| 内存 | Samsung | DDR3 1600 4G * 2 (拆机) | 165 | [链接](https://www.samsung.com/semiconductor/cn/dram/module/M391B5173EB0-YK0) | 闲鱼 |
 | SSD | Kodak | 柯达X100 128G | 131 | [链接](http://kodakflash.com.cn/product/c/x--0007) | [链接](https://item.jd.com/100001967519.html) |
 | 板载网卡 | Killer | E2200 |   | [链接](https://www.killernetworking.com) <br>(没找到E2200的介绍, 附官网链接) |  |
 | 外置网卡 | Intel | I350T4V2 | 233.24 | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.taobao.com/item.htm?id=556165663722) |
