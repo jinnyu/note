@@ -6,17 +6,17 @@
 
 ### 配置
 
-| 部件 | 品牌 | 型号 | 购买价格 | 产品链接 |购买链接 |
-| :------: | :------: | :------: | :------: | :------: | :------: |
-| CPU | Intel | Pentium G3258 (20周年纪念版) | 469 | [链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html) | [链接](https://item.jd.com/1166116.html) |
-| 主板 | Asrock | Fatal1ty B85 Killer | 539 | [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp) | [链接](https://item.jd.com/1023241.html) |
-| 内存 | G.Skill | DDR3 1333 4G * 2 | 0<br>(朋友送的) | [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-) |  |
-| 内存 | Samsung | DDR3 1600 4G * 2 (拆机) | 165 | [链接](https://www.samsung.com/semiconductor/cn/dram/module/M391B5173EB0-YK0) | 闲鱼 |
-| SSD | Kodak | 柯达X100 128G | 131 | [链接](http://kodakflash.com.cn/product/c/x--0007) | [链接](https://item.jd.com/100001967519.html) |
-| 板载网卡 | Killer | E2200 |   | [链接](https://www.killernetworking.com) <br>(没找到E2200的介绍, 附官网链接) |  |
-| 外置网卡 | Intel | I350T4V2 | 233.24 | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.taobao.com/item.htm?id=556165663722) |
-| 电源 | Antec | VP300 (额定300W) | 144 | [链接](http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75) | [链接](https://detail.tmall.com/item.htm?id=567496242245) |
-| 机箱 | DIY | 开放式机架 | 97.02 | [链接](https://item.taobao.com/item.htm?id=585430613332) | [链接](https://item.taobao.com/item.htm?id=585430613332) |
+|   部件   |  品牌   |             型号             |    购买价格     |                                                      产品链接                                                      |                         购买链接                          |
+| :------: | :-----: | :--------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
+|   CPU    |  Intel  | Pentium G3258 (20周年纪念版) |       469       |               [链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html)                |         [链接](https://item.jd.com/1166116.html)          |
+|   主板   | Asrock  |     Fatal1ty B85 Killer      |       539       |                [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp)                 |         [链接](https://item.jd.com/1023241.html)          |
+|   内存   | G.Skill |       DDR3 1333 4G * 2       | 0<br>(朋友送的) |                            [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-)                            |                                                           |
+|   内存   | Samsung |   DDR3 1600 4G * 2 (拆机)    |       165       |                   [链接](https://www.samsung.com/semiconductor/cn/dram/module/M391B5173EB0-YK0)                    |                           闲鱼                            |
+|   SSD    |  Kodak  |        柯达X100 128G         |       131       |                                 [链接](http://kodakflash.com.cn/product/c/x--0007)                                 |       [链接](https://item.jd.com/100001967519.html)       |
+| 板载网卡 | Killer  |            E2200             |                 |                    [链接](https://www.killernetworking.com) <br>(没找到E2200的介绍, 附官网链接)                    |                                                           |
+| 外置网卡 |  Intel  |           I350T4V2           |     233.24      | [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html) | [链接](https://item.taobao.com/item.htm?id=556165663722)  |
+|   电源   |  Antec  |       VP300 (额定300W)       |       144       |                 [链接](http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75)                  | [链接](https://detail.tmall.com/item.htm?id=567496242245) |
+|   机箱   |   DIY   |          开放式机架          |      97.02      |                              [链接](https://item.taobao.com/item.htm?id=585430613332)                              | [链接](https://item.taobao.com/item.htm?id=585430613332)  |
 
 ### 系统选择
 
@@ -24,9 +24,9 @@
 
 ### 架设方案
 
-| 平台 | 架构 | 状态 |
-| :-----: | :-----: | :-----: |
-| ESXi | 物理机 | 暂未尝试 |
+|  平台   |           架构            |                     状态                     |
+| :-----: | :-----------------------: | :------------------------------------------: |
+|  ESXi   |          物理机           |                   暂未尝试                   |
 | Hyper-v | 物理机 => Hyper-v => LEDE | ~~尝试中~~<br>2019-02-27 安装成功, 运行正常. |
 
 ### 折腾历程
