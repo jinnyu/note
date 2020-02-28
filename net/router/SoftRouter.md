@@ -6,18 +6,19 @@
 
 ### 配置
 
-|   部件   |   品牌    |               型号               |    购买价格     |                                                            产品链接                                                            |                         购买链接                          |
-| :------: | :-------: | :------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
-| ~~CPU~~  | ~~Intel~~ | ~~Pentium G3258 (20周年纪念版)~~ |     ~~469~~     |                   ~~[链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html)~~                    |       ~~[链接](https://item.jd.com/1166116.html)~~        |
-|   CPU    |   Intel   |          Core i7 4702HQ          |       550       | [链接](https://ark.intel.com/content/www/cn/zh/ark/products/75118/intel-core-i7-4702hq-processor-6m-cache-up-to-3-20-ghz.html) | [链接](https://item.taobao.com/item.htm?id=561914181308)  |
-|   主板   |  Asrock   |       Fatal1ty B85 Killer        |       539       |                      [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp)                       |         [链接](https://item.jd.com/1023241.html)          |
-|   内存   |  G.Skill  |         DDR3 1333 4G * 2         | 0<br>(朋友送的) |                                  [链接](http://www.gskill.com/tw/product/f3-10666cl9s-4gbxl-)                                  |                                                           |
-|   内存   |  Samsung  |     DDR3 1600 4G * 2 (拆机)      |       165       |                         [链接](https://www.samsung.com/semiconductor/cn/dram/module/M391B5173EB0-YK0)                          |                           闲鱼                            |
-|   SSD    |   Kodak   |          柯达X100 128G           |       131       |                                       [链接](http://kodakflash.com.cn/product/c/x--0007)                                       |       [链接](https://item.jd.com/100001967519.html)       |
-| 板载网卡 |  Killer   |              E2200               |                 |                          [链接](https://www.killernetworking.com) <br>(没找到E2200的介绍, 附官网链接)                          |                                                           |
-| 外置网卡 |   Intel   |             I350T4V2             |     233.24      |       [链接](https://www.intel.cn/content/www/cn/zh/products/network-io/ethernet/gigabit-adapters/server-i350-t4v2.html)       | [链接](https://item.taobao.com/item.htm?id=556165663722)  |
-|   电源   |   Antec   |         VP300 (额定300W)         |       144       |                       [链接](http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75)                        | [链接](https://detail.tmall.com/item.htm?id=567496242245) |
-|   机箱   |    DIY    |            开放式机架            |      97.02      |                                    [链接](https://item.taobao.com/item.htm?id=585430613332)                                    | [链接](https://item.taobao.com/item.htm?id=585430613332)  |
+| 部件          | 品牌      | 型号                             | 购买价格 | 产品链接                                                                                                                       | 说明                                                          |
+| :------------ | :-------- | :------------------------------- | :------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
+| ~~CPU~~       | ~~Intel~~ | ~~Pentium G3258 (20周年纪念版)~~ | ~~469~~  | ~~[链接](https://www.intel.cn/content/www/cn/zh/products/processors/pentium/g3258.html)~~                                      | ~~[购买链接](https://item.jd.com/1166116.html)~~              |
+| CPU           | Intel     | Core i7 4702HQ                   | 550      | [链接](https://ark.intel.com/content/www/cn/zh/ark/products/75118/intel-core-i7-4702hq-processor-6m-cache-up-to-3-20-ghz.html) | [购买链接](https://item.taobao.com/item.htm?id=561914181308)  |
+| 主板          | Asrock    | Fatal1ty B85 Killer              | 539      | [链接](http://www.asrockchina.com.cn/MB/Intel/Fatal1ty%20B85%20Killer/index.cn.asp)                                            | [购买链接](https://item.jd.com/1023241.html)                  |
+| 内存          | G.Skill   | DDR3 1333 4G * 2                 | 0        | [链接](https://www.gskill.com/tw/product/203/225/1532315176/F3-10666CL9D-8GBRLRipjawsDDR3-1333MHz-CL9-9-9-1.50V8GB-(2x4GB))    | 朋友送的                                                      |
+| 内存          | Samsung   | DDR3 1600 4G * 2                 | 165      | [链接](https://www.samsung.com/semiconductor/cn/dram/module/M391B5173EB0-YK0)                                                  | 闲鱼 山寨条                                                   |
+| SSD           | Kodak     | X100 120G                        | 131      | [链接](http://kodakflash.com.cn/product/c/x--0007)                                                                             | [购买链接](https://item.jd.com/100001967519.html)             |
+| 板载网卡      | Killer    | E2200                            | 0        | 未找到介绍 附官网[链接](https://www.killernetworking.com)                                                                      | -                                                             |
+| PCI-E有线网卡 | Intel     | I350 T4V2                        | 233.24   | [链接](https://ark.intel.com/content/www/cn/zh/ark/products/84805/intel-ethernet-server-adapter-i350-t4v2.html)                | [购买链接](https://item.taobao.com/item.htm?id=556165663722)  |
+| PCI-E无线网卡 | Intel     | 9260 AC                          | 65.21    | [链接](https://ark.intel.com/content/www/cn/zh/ark/products/99445/intel-wireless-ac-9260.html)                                 | [购买链接](https://item.taobao.com/item.htm?id=565776272616)  |
+| 电源          | Antec     | VP300                            | 144      | [链接](http://www.antec.com.cn/index.php?m=content&c=index&a=show&catid=45&id=75)                                              | [购买链接](https://detail.tmall.com/item.htm?id=567496242245) |
+| 机箱          | DIY       | 开放式机架                       | 97.02    | [链接](https://item.taobao.com/item.htm?id=585430613332)                                                                       | [购买链接](https://item.taobao.com/item.htm?id=585430613332)  |
 
 ### 系统选择
 
@@ -31,6 +32,15 @@
 |        ESXi         | 2910-04-05 |  物理机 -> ESXi -> LEDE   |        安装成功, 运行正常.         |
 
 ### 折腾历程
+
+> 2019-??
+
+放弃软路由, 原因有几点...  
+1 整体功耗较高.  
+2 研究不透彻, 要学的东西比较多. (虚拟化平台, 虚拟化硬件直通, 网络协议等等)  
+3 挂了个2T的硬盘, 由于长时间不关机, 导致通电时间暴增.  
+
+所以暂时放弃了, 等后期有需要的时候再考虑上软路由.
 
 > 2019-04-27  
 
