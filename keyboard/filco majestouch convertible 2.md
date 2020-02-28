@@ -1,8 +1,4 @@
-# Filco ([Filco 忍者圣手2代](http://www.filcochina.com/Products.asp?Bigclassname=ProductsGKING&productname=FKBC104MRLEFB2))
-
-### 背景
-
-
+# [Filco 忍者圣手2代](http://www.filcochina.com/Products.asp?Bigclassname=ProductsGKING&productname=FKBC104MRLEFB2)
 
 ### 参数
 
