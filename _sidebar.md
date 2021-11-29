@@ -18,9 +18,20 @@
     - [R8000](net/router/R8000.md)
     - [软路由](net/router/soft-router.md)
 
+  - 交换机
+
+    - [华三 S1G](net/switch/H3C-magic-s1g.md)
+
 - 开发板
 
   - [树莓派3B](development%20board/raspberry%20pi%203B.md)
+
+- 外设
+
+  - 机械键盘
+  
+    - [魔力鸭 2108s](keyboard/ducky%202108s.md)
+    - [斐尔可 忍者圣手2代](keyboard/filco%20majestouch%20convertible%202.md)
 
 - 主机
 
