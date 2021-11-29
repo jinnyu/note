@@ -17,13 +17,15 @@
 
 ## 使用体会
 
+**由于某些原因, 已不再使用滴滴云!**
+
 优点 :
 
 1. 价格足够便宜  
    - 因为家里有私有服务器, 所以公有云的需求就只剩带宽了, 所以越便宜越好.  
    - 1C1G40G 配置为 12.6元/月
    - 5M 带宽为 90元/月
-   * 目前有优惠价格 [1C1G1M/年](https://www.didiyun.com/activity.html?invite=2cMQdd7bDmo#annually) 为 272.16元.
+   - 目前有优惠价格 [1C1G1M/年](https://www.didiyun.com/activity.html?invite=2cMQdd7bDmo#annually) 为 272.16元.
 
 2. 管理后台交互体验好  
    滴滴云的管理后台是我用过这么多后台当中体验最好的.  
