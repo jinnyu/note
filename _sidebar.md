@@ -43,6 +43,8 @@
   - [米家人体传感器](iot/mi%20body%20sensor.md)
   - [米家智能插座(Zigbee版)](iot/mi%20smart%20switch.md)
   - [米家温湿度传感器](iot/mi%20temperature%20humidity%20sensor.md)
+  - [小米空气净化器2S](iot/mi%20air%20purifier%202s.md)
+  - [石头扫地机器人S50](iot/mi%20rock%20sweeping%20robot.md)
 
 - 充电设备
 
