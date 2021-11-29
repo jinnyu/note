@@ -5,7 +5,7 @@
   - [个人PC](hardware/personal/pc.md)
   - [云服务器 - 滴滴云](hardware/server/didi-cloud.md)
   - [云服务器 - 阿里云](hardware/server/aliyun-light.md)
-  - [本地服务器](hardware/server/home-server.md)
+  - [私有服务器](hardware/server/home-server.md)
 
 - 网络设备
 
@@ -37,3 +37,5 @@
 
   - [小米Type-C电源适配器 65W](charger/mi%20type-c%20power%20charger.md)
   - [紫米无线充电板](charger/zmi%20wireless%20chareger.md)
+
+<footer id="mb-footer"></footer>
