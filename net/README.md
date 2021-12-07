@@ -4,26 +4,14 @@
 
 1. 路由设备
    - 全局反追踪 + 去广告
-   - 科学上网
+   - 特殊需求
    - 自定义DNS
    - 内网穿透
+
 2. 交换设备
    - 电口 2.5G
    - 光口 10G
-3. 无线设备
-   - WIFI 6E
-# 网络设备
 
-总体需求
-
-1. 路由设备
-   - 全局反追踪 + 去广告
-   - 科学上网
-   - 自定义DNS
-   - 内网穿透
-2. 交换设备
-   - 电口 2.5G
-   - 光口 10G
 3. 无线设备
    - WIFI 6E
 
@@ -46,6 +34,7 @@
 | ~~网件 MS510TXUP~~        | 价格未知                    | 2 * 1/10G SFP+<br>4 * 100M/1G/2.5G/5G/10G RJ45 (PoE)<br>4 * 100M/1G/2.5G RJ45 (PoE)           | [官网信息](https://www.netgear.com.cn/business/products/switches/smart/ms510txup.aspx) |                                                                             |
 | ~~网件 MS510TXM~~         | 价格未知                    | 2 * 1/10G SFP+<br>4 * 100M/1G/2.5G/5G/10G RJ45<br>4 * 100M/1G/2.5G RJ45                       | [官网信息](https://www.netgear.com.cn/business/products/switches/smart/MS510txm.aspx)  |                                                                             |
 | Mikrotik CRS312-4C+8XG-RM | 1688 3580                   | 4 * 1/10G SFP+<br>8 * 1G/2.5G/5G/10G RJ45<br>(其中4个为光电复用)                              | [官网信息](https://mikrotik.com/product/crs312_4c_8xg_rm)                              | [KoolShare开箱](https://koolshare.cn/thread-176287-1-1.html)                |
+| 兮克 SKS7300-8GPY4CGS     | 拼多多 1199                 | 4 * 1/10G SFP+<br>8 * 1G/2.5G                                                                 | [官网信息](https://www.seekswan.com/xksupport/Sks7300.htm)                             |                                                                             |
 
 无线设备
 
