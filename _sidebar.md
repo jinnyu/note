@@ -9,18 +9,14 @@
 
 - 网络设备
 
-  - 路由器
-
-    - [Arris-1900P](net/router/Arris-1900P.md)
-    - [K2](net/router/K2.md)
-    - [K2P](net/router/K2P.md)
-    - [R3G](net/router/R3G.md)
-    - [R8000](net/router/R8000.md)
-    - [软路由](net/router/soft-router.md)
-
-  - 交换机
-
-    - [华三 S1G](net/switch/H3C-magic-s1g.md)
+    - [总体需求](net/README.md)
+    - [路由器 - Arris-1900P](net/router/Arris-1900P.md)
+    - [路由器 - K2](net/router/K2.md)
+    - [路由器 - K2P](net/router/K2P.md)
+    - [路由器 - R3G](net/router/R3G.md)
+    - [路由器 - R8000](net/router/R8000.md)
+    - [路由器 - 软路由](net/router/soft-router.md)
+    - [交换机 - 华三 S1G](net/switch/H3C-magic-s1g.md)
 
 - 开发板
 
