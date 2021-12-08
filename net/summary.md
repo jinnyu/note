@@ -35,17 +35,17 @@
 | ~~普联 TL-ST5008F~~       | 淘宝 819 / 闲鱼理想价格 700 | 8 * 10G SPF+ 自适应                                                                   | [官网信息](https://www.tp-link.com.cn/product_1649.html)                               | [论坛开箱](https://www.chiphell.com/thread-2244916-1-1.html)                |
 | ~~网件 MS510TXUP~~        | 价格较贵                    | 2 * 1G/10G SFP+<br>4 * 100M/1G/2.5G/5G/10G RJ45 (PoE)<br>4 * 100M/1G/2.5G RJ45 (PoE)  | [官网信息](https://www.netgear.com.cn/business/products/switches/smart/ms510txup.aspx) |                                                                             |
 | ~~网件 MS510TXM~~         | 价格较贵                    | 2 * 1G/10G SFP+<br>4 * 100M/1G/2.5G/5G/10G RJ45<br>4 * 100M/1G/2.5G RJ45              | [官网信息](https://www.netgear.com.cn/business/products/switches/smart/MS510txm.aspx)  |                                                                             |
-| Mikrotik CRS312-4C+8XG-RM | 1688 3580                   | 4 * 1G/10G SFP+<br>8 * 1G/2.5G/5G/10G RJ45<br>(其中4个为光电复用)                     | [官网信息](https://mikrotik.com/product/crs312_4c_8xg_rm)                              | [KoolShare开箱](https://www.koolcenter.com/thread/176287)                   |
+| Mikrotik CRS312-4C+8XG-RM | 1688 3580                   | 4 * 1G/10G SFP+<br>8 * 1G/2.5G/5G/10G RJ45 (其中4个为光电复用)                        | [官网信息](https://mikrotik.com/product/crs312_4c_8xg_rm)                              | [KoolShare开箱](https://www.koolcenter.com/thread/176287)                   |
 | 兮克 SKS7300-8GPY4CGS     | 拼多多 1199                 | 4 * 1G/10G SFP+<br>8 * 1G/2.5G                                                        | [官网信息](https://www.seekswan.com/xksupport/Sks7300.htm)                             |                                                                             |
 
 无线设备
 
-| 设备类型 | 名称                           | 价格                       | 接口             | 供电         | 官网信息                                                 | 其他信息                                  |
-| :------- | :----------------------------- | :------------------------- | :--------------- | :----------- | :------------------------------------------------------- | :---------------------------------------- |
-| AC       | 普联 TL-AC100                  | 淘宝 199 / 闲鱼 175 (V4.0) | 5 * 100M RJ45    | DC           | [官网信息](https://www.tp-link.com.cn/product_347.html)  |                                           |
-| AP       | 普联 TL-XAP5407GC-PoE/DC易展版 | 1688 799                   | 1 * 1G/2.5G RJ45 | DC / 标准PoE | [官网信息](https://www.tp-link.com.cn/product_1846.html) | DC电源线需自行购买                        |
-| 配件     | DC 电源                        | 淘宝 25+                   | 5.5 * 2.1 mm     | 输出12V 2A   | -                                                        | -                                         |
-| 配件     | 猫头鹰 4020风扇                | 淘宝 110 三方 / 119 官方   | 40 * 20 mm / PWM | 12V 小4pin   | [官网信息](https://noctua.at/cn/nf-a4x20-pwm)            | 为 Mikrotik CRS312-4C+8XG-RM 降噪 需求4个 |
+| 设备类型 | 名称                           | 价格                       | 接口                  | 供电         | 官网信息                                                 | 其他信息                                  |
+| :------- | :----------------------------- | :------------------------- | :-------------------- | :----------- | :------------------------------------------------------- | :---------------------------------------- |
+| AC       | 普联 TL-AC100                  | 淘宝 199 / 闲鱼 175 (V4.0) | 5 * 100M RJ45         | DC           | [官网信息](https://www.tp-link.com.cn/product_347.html)  |                                           |
+| AP       | 普联 TL-XAP5407GC-PoE/DC易展版 | 1688 799                   | 1 * 100M/1G/2.5G RJ45 | DC / 标准PoE | [官网信息](https://www.tp-link.com.cn/product_1846.html) | DC电源线需自行购买                        |
+| 配件     | DC 电源                        | 淘宝 25+                   | 5.5 * 2.1 mm          | 输出12V 2A   | -                                                        | -                                         |
+| 配件     | 猫头鹰 4020风扇                | 淘宝 110 三方 / 119 官方   | 40 * 20 mm / PWM      | 12V 小4pin   | [官网信息](https://noctua.at/cn/nf-a4x20-pwm)            | 为 Mikrotik CRS312-4C+8XG-RM 降噪 需求4个 |
 
 其他
 
