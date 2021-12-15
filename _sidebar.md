@@ -20,31 +20,31 @@
 
 - 开发板
 
-  - [树莓派3B](development%20board/raspberry%20pi%203B.md)
+  - [树莓派3B](development-board/raspberry-pi-3B.md)
 
 - 外设
 
   - 机械键盘
   
-    - [魔力鸭 2108s](keyboard/ducky%202108s.md)
-    - [斐尔可 忍者圣手2代](keyboard/filco%20majestouch%20convertible%202.md)
+    - [魔力鸭 2108s](keyboard/ducky-2108s.md)
+    - [斐尔可 忍者圣手2代](keyboard/filco-majestouch-convertible-2.md)
 
 - 主机
 
-  - [Nintendo switch](console/nintendo%20switch.md)
+  - [Nintendo switch](console/nintendo-switch.md)
 
 - 物联网设备
 
-  - [米家多功能网关](iot/mi%20gateway%20(2nd).md)
-  - [米家人体传感器](iot/mi%20body%20sensor.md)
-  - [米家智能插座(Zigbee版)](iot/mi%20smart%20switch.md)
-  - [米家温湿度传感器](iot/mi%20temperature%20humidity%20sensor.md)
-  - [小米空气净化器2S](iot/mi%20air%20purifier%202s.md)
-  - [石头扫地机器人S50](iot/mi%20rock%20sweeping%20robot.md)
+  - [米家多功能网关](iot/mi-gateway-(2nd).md)
+  - [米家人体传感器](iot/mi-body-sensor.md)
+  - [米家智能插座(Zigbee版)](iot/mi-smart-switch.md)
+  - [米家温湿度传感器](iot/mi-temperature-humidity-sensor.md)
+  - [小米空气净化器2S](iot/mi-air-purifier-2s.md)
+  - [石头扫地机器人S50](iot/mi-rock-sweeping-robot-S50.md)
 
 - 充电设备
 
-  - [小米Type-C电源适配器 65W](charger/mi%20type-c%20power%20charger.md)
-  - [紫米无线充电板](charger/zmi%20wireless%20chareger.md)
+  - [小米Type-C电源适配器 65W](charger/mi-typec-power-charger.md)
+  - [紫米无线充电板](charger/zmi-wireless-chareger.md)
 
 <footer id="mb-footer"></footer>
