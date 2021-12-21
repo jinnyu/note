@@ -1,5 +1,3 @@
-- [记录说明](README.md)
-
 - 开发
 
   - [Java - JDK8](dev/java/jdk8.md)
